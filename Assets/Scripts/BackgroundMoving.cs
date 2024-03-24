@@ -15,6 +15,8 @@ public class BackgroundMoving : MonoBehaviour
         oldPosition = obj.transform.position;
     }
     // hôm nay mình tạo nhánh mới nhe các bạn
+    // confilict tới nơi rồi này
+    // quên không checkout ạ
     // Update is called once per frame
     void Update()
     {
