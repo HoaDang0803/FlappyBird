@@ -1,4 +1,4 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -14,7 +14,7 @@ public class BackgroundMoving : MonoBehaviour
         obj = gameObject;
         oldPosition = obj.transform.position;
     }
-
+    // hôm nay mình tạo nhánh mới nhe các bạn
     // Update is called once per frame
     void Update()
     {
